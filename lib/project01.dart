@@ -34,8 +34,7 @@ class _TapBoxAState extends State<TapBoxA> {
     return Scaffold(
         body: ListView(
       children: <Widget>[
-        Image.network(
-            "https://images.capital.ro/wp-content/uploads/2019/12/euro-1024x641.jpg"),
+        Image.network("https://images.capital.ro/wp-content/uploads/2019/12/euro-1024x641.jpg"),
         TextField(
           controller: control,
           decoration: InputDecoration(
