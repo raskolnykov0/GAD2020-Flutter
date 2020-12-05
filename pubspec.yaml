@@ -15,9 +15,19 @@ dependencies:
   cupertino_icons: ^1.0.0
 
 dev_dependencies:
-  pedantic: ^1.9.0
+  pedantic: ^1.9.2
+  audioplayers: 0.17.0
   flutter_test:
     sdk: flutter
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/Buna ziua.mp3
+    - assets/Ce mai faceti.mp3
+    - assets/Ciao.mp3
+    - assets/Cosa stai facendo.mp3
+    - assets/Dove si trova la stazione ferroviaria.mp3
+    - assets/Unde este gara.mp3
+    - assets/Vrei sa bei bere.mp3
+    - assets/Vuoi bere birra.mp3
