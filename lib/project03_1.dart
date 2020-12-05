@@ -157,34 +157,3 @@ class _TicTacToeState extends State<TicTacToe> {
     );
   }
 }
-
-/*
-GridView.count(
-        padding: EdgeInsets.all(2),
-        crossAxisCount: 3,
-        mainAxisSpacing: 2,
-        crossAxisSpacing: 2,
-        children: List.generate(
-          9,
-          (index) {
-            return AnimatedContainer(
-              duration: Duration(seconds: 1),
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(12),
-                border: Border.all(
-                  color: Colors.teal,
-                  width: 0.4,
-                ),
-                color: colors[index],
-              ),
-              child: FlatButton(
-                onPressed: () {
-                  pressed(index);
-                },
-                child: null,
-              ),
-            );
-          },
-        ),
-      ),
- */
