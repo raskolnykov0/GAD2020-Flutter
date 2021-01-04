@@ -47,3 +47,15 @@ This app uses the `audioplayer` dependency from pub get in order to play some ba
 **`path :`**  [project04](https://github.com/raskolnykov0/GAD2020-Flutter/tree/master/lib/project04.dart)
 
 This is the only application where I have used OOP strategies and also a **Model**. It fetches the data from a [JSON API](https://yts.mx/api#list_movies) and it also filters out the data according to some paramaters that the User chooses.
+
+# Project Movie App
+
+**`path :`**  [Project Movie App](https://github.com/raskolnykov0/GAD2020-Flutter/tree/master/lib/src)
+
+This app was designed using various dependecies
+```dart
+build_runner
+freezed
+redux
+```
+which helped us to generate the Models quickly. It also makes use of concepts like `containers`, `middleware` and `presentation`, everything being divided into categories.
