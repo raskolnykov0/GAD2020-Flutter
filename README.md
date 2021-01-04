@@ -4,8 +4,11 @@
 **Repository made for the Google GAD2020**
 
 **Author:** &nbsp;`Ivan Alexandru-Ionut`
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Technical University of Cluj-Napoca`
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2nd Year Computer Science`
+
 
 # Projects
 ## Project01 - Currency Converter App
